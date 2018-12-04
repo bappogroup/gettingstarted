@@ -4,7 +4,7 @@ Documentation for React Developers
 Bappo doesnt have any help or documentation yet, but for developers who are helping us to build apps on Bappo, here is a quick start guide to learn the basics:
 
 # First App
-Go to https://go.bappo.com
+Go to https://bappo.com/apps
 
 Sign up and create your first app
 
@@ -28,6 +28,8 @@ The app is now ready to be used, click on "Go to this App" in the bottom left.
 Enter some tasks.
 
 If everything works fine, you can now start coding.
+
+## Coding - example 1
 
 Click on "Modify This App" in the bottom left.
 
@@ -147,7 +149,7 @@ const BottomLink = styled.div`
 `;
 ```
 
-H1 Example2
+## Coding - Example 2
 
 Create another package and call it "example2" and save the following code
 
@@ -269,7 +271,7 @@ const BottomLink = styled.div`
 
 ```
 
-H1 Example 3
+## Coding - Example 3
 
 Create another package and call it example 3
 
